@@ -1,0 +1,18 @@
+2023-04-02 21:13:01.906596 - Initialized conversion of CBT048
+2023-04-02 21:13:02.042556 - Received CBT.V504.FILE048.PDS from FILE048.XMI 
+2023-04-02 21:13:02.045520 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/$$$#DATE
+2023-04-02 21:13:02.046783 - Found @FILE048.txt (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/@FILE048
+2023-04-02 21:13:02.047844 - Found APUT.txt (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/APUT
+2023-04-02 21:13:02.049079 - Found EPUTL.txt (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/EPUTL
+2023-04-02 21:13:02.050625 - Found LISTSPC.txt (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/LISTSPC
+2023-04-02 21:13:02.052236 - Found LISTSPC$.jcl (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/LISTSPC$
+2023-04-02 21:13:02.053621 - Found LISTSPC#.txt (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/LISTSPC#
+2023-04-02 21:13:02.055188 - Found LISTVOL.txt (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/LISTVOL
+2023-04-02 21:13:02.056735 - Found LISTVOL$.jcl (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/LISTVOL$
+2023-04-02 21:13:02.058191 - Found LISTVOL#.txt (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/LISTVOL#
+2023-04-02 21:13:02.067316 - Found LOADLIB.xmi (application/xmit) in CBT.V504.FILE048.PDS
+2023-04-02 21:13:02.075755   - Received RECFM=U data, stored XMIT file as CBT048/LOADLIB.xmi
+2023-04-02 21:13:02.077078 - Found LOCINDEX.txt (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/LOCINDEX
+2023-04-02 21:13:02.078758 - Found TSOB.rexx (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/TSOB
+2023-04-02 21:13:02.080096 - Found TSOE.rexx (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/TSOE
+2023-04-02 21:13:02.081567 - Found TSOV.rexx (text/plain) in CBT.V504.FILE048.PDS, moved to PDS/TSOV
